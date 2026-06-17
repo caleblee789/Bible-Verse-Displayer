@@ -1,0 +1,11 @@
+{
+    "name": "Bible Verse Displayer",
+    "package": "290511870",
+    "ankiweb_id": "290511870",
+    "author": "ijgnord",
+    "version": "1.2.0",
+    "homepage": "https://ankiweb.net/shared/info/290511870",
+    "conflicts": [],
+    "mod": 1781669809,
+    "min_point_version": 22
+}
